@@ -71,7 +71,7 @@ Or you can check us out first:
 - [Barclays/Techstars Accelerator](http://www.techstars.com/content/blog/introducing-the-11-new-companies-of-londons-barclays-accelerator-powered-by-techstars/)
 - [Harriet Baldwin MP mention](https://www.gov.uk/government/speeches/fintech-week-2016-celebrating-britains-status-as-a-leading-fintech-hub)
 - [Reuters mention](http://www.reuters.com/article/britain-blockchain-idUSL8N1623LQ)
-- [Financial Conduct Authority mention](https://fca.org.uk/news/uk-fintech-regulating-for-innovation) [and another](https://fca.org.uk/news/innovation-in-financial-services)
+- [FCA mention](https://fca.org.uk/news/uk-fintech-regulating-for-innovation), [and another](https://fca.org.uk/news/innovation-in-financial-services)
 - [FCA Authorization](https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000o1JXIAA2)
 
 Cuvva is authorized and regulated by the Financial Conduct Authority. Our
