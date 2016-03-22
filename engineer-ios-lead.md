@@ -63,15 +63,15 @@ For an up-to-date listing of all our open positions: https://github.com/cuvva/jo
 
 Or you can check us out first:
 
-- [Cuvva App](https://itunes.apple.com/app/id979980804?mt=8)
+- [Cuvva iOS App](https://itunes.apple.com/app/id979980804?mt=8)
 - [cuvva.co](https://cuvva.co)
 - [TechCrunch article](http://techcrunch.com/2016/01/05/cuvva/)
 - [The Scotsman article](http://www.scotsman.com/business/companies/tech/car-insurance-start-up-cuvva-hits-the-road-1-3950441)
 - [The Sun article](http://www.sunmotors.co.uk/news/app-launched-for-hourly-car-insurance/)
 - [Barclays/Techstars Accelerator](http://www.techstars.com/content/blog/introducing-the-11-new-companies-of-londons-barclays-accelerator-powered-by-techstars/)
+- [Harriet Baldwin MP mention](https://www.gov.uk/government/speeches/fintech-week-2016-celebrating-britains-status-as-a-leading-fintech-hub)
 - [Reuters mention](http://www.reuters.com/article/britain-blockchain-idUSL8N1623LQ)
-- [Financial Conduct Authority mention](https://fca.org.uk/news/uk-fintech-regulating-for-innovation)
-- [Another FCA mention](https://fca.org.uk/news/innovation-in-financial-services)
+- [Financial Conduct Authority mention](https://fca.org.uk/news/uk-fintech-regulating-for-innovation) [and another](https://fca.org.uk/news/innovation-in-financial-services)
 - [FCA Authorization](https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000o1JXIAA2)
 
 Cuvva is authorized and regulated by the Financial Conduct Authority. Our
