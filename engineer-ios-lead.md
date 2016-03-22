@@ -71,4 +71,4 @@ Or you can check us out first:
 - [Barclays/Techstars Accelerator](http://www.techstars.com/content/blog/introducing-the-11-new-companies-of-londons-barclays-accelerator-powered-by-techstars/)
 - [Reuters mention](http://www.reuters.com/article/britain-blockchain-idUSL8N1623LQ)
 - [Financial Conduct Authority mention](https://fca.org.uk/news/uk-fintech-regulating-for-innovation)
-- [Another FCA mention](http://www.fca.org.uk/news/uk-fintech-regulating-for-innovation)
+- [Another FCA mention](https://fca.org.uk/news/innovation-in-financial-services)
