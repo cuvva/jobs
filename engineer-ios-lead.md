@@ -72,3 +72,7 @@ Or you can check us out first:
 - [Reuters mention](http://www.reuters.com/article/britain-blockchain-idUSL8N1623LQ)
 - [Financial Conduct Authority mention](https://fca.org.uk/news/uk-fintech-regulating-for-innovation)
 - [Another FCA mention](https://fca.org.uk/news/innovation-in-financial-services)
+- [FCA Authorization](https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000o1JXIAA2)
+
+Cuvva is authorized and regulated by the Financial Conduct Authority. Our
+reference number is 690273. You can check our details on their website.
