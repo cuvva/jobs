@@ -60,5 +60,7 @@ Or you can check us out first:
 - [FCA mention](https://fca.org.uk/news/uk-fintech-regulating-for-innovation), [and another](https://fca.org.uk/news/innovation-in-financial-services)
 - [FCA Authorization](https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000o1JXIAA2)
 
+**Note**: at present, Cuvva does not work with recruiters.
+
 Cuvva is authorized and regulated by the Financial Conduct Authority. Our
 reference number is 690273. You can check our details on their website.
