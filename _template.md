@@ -21,9 +21,9 @@ If you think you have what it takes to raise our game and you're interested in
 dynamic risk profiling, live marketplaces, behavioural psychology and cool
 hardware integrations then [we should talk](mailto:jobs@cuvva.co).
 
-Cuvva is seed funded (&pound;500k to date), currently in the Barclays/Techstars
-fin-tech accelerator. We're a team of five full and part-time people, and we're
-hiring!
+Cuvva is seed funded (&pound;500k to date), and is part of the Techstars family
+(Barclays Accelerator, Winter 2016). We're a team of eight full and part-time
+people, and we're hiring!
 
 ## The Job
 
