@@ -5,25 +5,25 @@
 - Location: London
 - Working Hours: as you would expect for a startup!
 - Start: ASAP
-- Contract: temporary with a view to potentially going permanent
+- Contract: permanent
 
 ## About Cuvva
 
 Insurance is the next big industry to get disrupted, and Cuvva is starting with
-the way you think about car insurance. We have built an app that lets you insure
-yourself on a friend's car for as little as an hour, and that's just the
-beginning. We cut out all the middle-men and built our own platform for
-distributing insurance on mobile. We're using it to change the way people engage
-with their insurance company, the way they buy insurance, and the way they think
-about borrowing a car.
+car insurance. We have an app which lets you insure yourself on a friend's car
+for as little as an hour, but that's just the beginning. So far, we've cut out
+all the middle-men and built our own platform from scratch for distributing
+insurance. We're using it to change the way people buy and use insurance, and
+the way they think about getting from A-to-B. It's all about providing insurance
+that fits.
 
 If you think you have what it takes to raise our game and you're interested in
-dynamic risk profiling, live marketplaces, behavioural psychology and cool
-hardware integrations then [we should talk](mailto:jobs@cuvva.co).
+dynamic risk profiling, real-time marketplace competition, behavioural
+psychology, cool hardware integrations and automated emergency/crash detection,
+then [we should talk](mailto:jobs@cuvva.co).
 
-Cuvva is seed funded (&pound;500k to date), and is part of the Techstars family
-(Barclays Accelerator, Winter 2016). We're a team of eight full and part-time
-people, and we're hiring!
+Cuvva is well funded, and is part of the Techstars family (Barclays Accelerator,
+Q1 2016). We're a team of eight full and part-time people, and we're hiring!
 
 ## The Job
 
@@ -57,8 +57,10 @@ Or you can check us out first:
 - [Barclays/Techstars Accelerator](http://www.techstars.com/content/blog/introducing-the-11-new-companies-of-londons-barclays-accelerator-powered-by-techstars/)
 - [Harriet Baldwin MP mention](https://www.gov.uk/government/speeches/fintech-week-2016-celebrating-britains-status-as-a-leading-fintech-hub)
 - [Reuters mention](http://www.reuters.com/article/britain-blockchain-idUSL8N1623LQ)
+- [Startups.co.uk interview](http://startups.co.uk/cuvva-freddy-macnamara/)
 - [FCA mention](https://fca.org.uk/news/uk-fintech-regulating-for-innovation), [and another](https://fca.org.uk/news/innovation-in-financial-services)
 - [FCA Authorization](https://register.fca.org.uk/ShPo_FirmDetailsPage?id=001b000000o1JXIAA2)
+- [Hacker News discussion](https://news.ycombinator.com/item?id=9976805)
 
 **Note**: at present, Cuvva does not work with recruiters.
 
