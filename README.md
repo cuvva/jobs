@@ -2,6 +2,7 @@
 
 We're hiring. These are the positions we have open at the moment:
 
+- [Head of Marketing](marketing-head.md) (perm) - manage all of Cuvva's marketing activity
 - [Lead Android Engineer](engineer-android-lead.md) (perm) - you'll create and own our next-gen Android app
 - [Systems Engineer](engineer-systems.md) (perm) - join the team which creates our underlying insurance platform and data/web/API systems
 - [Lead DevOps Engineer](engineer-devops-lead.md) (part-time/consultant) - own the underlying infrastructure of everything in our stack - from the app-level to our cloud providers
