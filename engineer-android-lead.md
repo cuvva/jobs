@@ -1,7 +1,7 @@
 # Cuvva - Lead Android Engineer
 
 - Reports to: [James Billingham](https://github.com/billinghamj) (co-founder)
-- Remuneration: competitive + equity
+- Remuneration: &pound;40-60k + equity
 - Location: London
 - Working Hours: as you would expect for a startup!
 - Start: ASAP
