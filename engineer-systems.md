@@ -1,10 +1,10 @@
-# Cuvva - Systems Engineer
+# Cuvva - Backend Engineer
 
-- Reports to: [James Billingham](https://github.com/billinghamj) (co-founder)
-- Remuneration: &pound;30-40k + equity
+- Reports to: [James Billingham](https://github.com/billinghamj) (co-founder & CTO)
+- Remuneration: &pound;35-45k + equity
 - Location: London
 - Working Hours: as you would expect for a startup!
-- Start: late-August 2016
+- Start: Q4 2017
 - Contract: permanent
 
 ## About Cuvva
@@ -26,10 +26,8 @@ dynamic risk profiling, real-time marketplace competition, behavioural
 psychology, cool hardware integrations and automated emergency/crash detection,
 then [we should talk](mailto:jobs@cuvva.co).
 
-Cuvva is seed funded (&pound;500k to date), and has recently completed the
-Barclays/Techstars fintech accelerator. We are currently fundraising with a view
-to scaling the business quickly over the next 12-18 months. We're a team of
-eight full and part-time people, and we're hiring!
+Cuvva is seed funded (&pound;2.1m to date), and is a Techstars alum. We're a
+team of 13, and we're hiring!
 
 ## The Job
 
